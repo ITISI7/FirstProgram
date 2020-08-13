@@ -11,6 +11,7 @@ namespace VariableOperatorsExpressions
         static void Main(string[] args)
         {
             Console.WriteLine("I want to work for Umbrella Corp.");
+            Console.WriteLine("Hello There");
             Console.ReadLine();
         }
     }
