@@ -8,11 +8,16 @@ namespace VariableOperatorsExpressions
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            Console.WriteLine("I want to work for Umbrella Corp.");
-            Console.WriteLine("Hello There");
-            Console.ReadLine();
+            string greeting = "Hello user! the game start condition is: ";
+            bool gameStarted = false;
+            string displayGameState = greeting + gameStarted;
+            Console.WriteLine(displayGameState);
+            gameStarted = true;
+            displayGameState = greeting + gameStarted;
+            Console.WriteLine(displayGameState);
+            Console.ReadKey();
         }
     }
 }
