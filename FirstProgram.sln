@@ -13,9 +13,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IfStatementExerices", "IfSt
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "looptutorial", "looptutorial\looptutorial.csproj", "{099ED916-298B-442D-97A2-01362C599EA1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionTutorial", "FunctionTutorial\FunctionTutorial.csproj", "{A612B260-70C1-42E5-9A6E-37D42C416559}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunctionTutorial", "FunctionTutorial\FunctionTutorial.csproj", "{A612B260-70C1-42E5-9A6E-37D42C416559}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "functionExercise", "functionExercise\functionExercise.csproj", "{7848AB79-6D2F-4B00-9464-BC07E0AAC211}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "functionExercise", "functionExercise\functionExercise.csproj", "{7848AB79-6D2F-4B00-9464-BC07E0AAC211}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PropertiesTutorial", "PropertiesTutorial\PropertiesTutorial.csproj", "{8D3FAA1C-2D9C-43F4-8F3A-48EDA0551F5E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GuessTheNumber", "Walkalong-master\GuessTheNumber\GuessTheNumber.csproj", "{A2B7C70A-7F28-40CF-979A-6FCC29765B73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassExecrese", "ClassExecrese\ClassExecrese.csproj", "{9F54C747-8F19-4558-B2DB-E54050365E7F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +57,18 @@ Global
 		{7848AB79-6D2F-4B00-9464-BC07E0AAC211}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7848AB79-6D2F-4B00-9464-BC07E0AAC211}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7848AB79-6D2F-4B00-9464-BC07E0AAC211}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D3FAA1C-2D9C-43F4-8F3A-48EDA0551F5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D3FAA1C-2D9C-43F4-8F3A-48EDA0551F5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D3FAA1C-2D9C-43F4-8F3A-48EDA0551F5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D3FAA1C-2D9C-43F4-8F3A-48EDA0551F5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2B7C70A-7F28-40CF-979A-6FCC29765B73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2B7C70A-7F28-40CF-979A-6FCC29765B73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2B7C70A-7F28-40CF-979A-6FCC29765B73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2B7C70A-7F28-40CF-979A-6FCC29765B73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F54C747-8F19-4558-B2DB-E54050365E7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F54C747-8F19-4558-B2DB-E54050365E7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F54C747-8F19-4558-B2DB-E54050365E7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F54C747-8F19-4558-B2DB-E54050365E7F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

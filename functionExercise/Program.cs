@@ -21,7 +21,8 @@ namespace functionExercise
 
         public void Start()
         {
-            int result = AddToScore(score);
+            
+            int result = AddToScore(50);
             Console.WriteLine("Your score is " + score);
             Console.WriteLine("Your score increase it is now " + result);
             Console.ReadKey();
@@ -29,6 +30,12 @@ namespace functionExercise
         public static int AddToScore(int add)
         {
             result = score + add;
+            return result;
+        }
+        public static int PrintScore(int add)
+        {
+            Console.WriteLine("Your score is " + score);
+            Console.WriteLine("Your score increase it is now " + result);
             return result;
         }
     }
