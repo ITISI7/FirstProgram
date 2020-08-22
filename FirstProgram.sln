@@ -21,7 +21,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PropertiesTutorial", "Prope
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GuessTheNumber", "Walkalong-master\GuessTheNumber\GuessTheNumber.csproj", "{A2B7C70A-7F28-40CF-979A-6FCC29765B73}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassExecrese", "ClassExecrese\ClassExecrese.csproj", "{9F54C747-8F19-4558-B2DB-E54050365E7F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassExecrese", "ClassExecrese\ClassExecrese.csproj", "{9F54C747-8F19-4558-B2DB-E54050365E7F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "arrayExecrese", "arrayExecrese\arrayExecrese.csproj", "{8F6EF55D-65D3-4E2E-87B5-3B6A3DAD9936}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zombie", "Zombie\Zombie.csproj", "{9B444A45-551D-4A68-99B2-5E2C96347327}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +73,14 @@ Global
 		{9F54C747-8F19-4558-B2DB-E54050365E7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F54C747-8F19-4558-B2DB-E54050365E7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F54C747-8F19-4558-B2DB-E54050365E7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F6EF55D-65D3-4E2E-87B5-3B6A3DAD9936}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F6EF55D-65D3-4E2E-87B5-3B6A3DAD9936}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F6EF55D-65D3-4E2E-87B5-3B6A3DAD9936}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F6EF55D-65D3-4E2E-87B5-3B6A3DAD9936}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B444A45-551D-4A68-99B2-5E2C96347327}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B444A45-551D-4A68-99B2-5E2C96347327}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B444A45-551D-4A68-99B2-5E2C96347327}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B444A45-551D-4A68-99B2-5E2C96347327}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
